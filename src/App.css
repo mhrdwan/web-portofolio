@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  height: 100vh;
+ background-color: #1e2022;
+ 
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.awal {
+  color: white !important;
+  margin-top: 90px;
+}
+
+/* SLIDER */
+
+.container-card{
+justify-content: center;
+justify-items: center;
+text-align: center;
+width: 350px;
+height: 350px;
+background-color: #2f3133;
+overflow: hidden;
+box-shadow: 0px 0px 15px -5px;
+transition: 0.3s;
+border-radius: 5%;
+}
+
+.wrapper-card img{
+  justify-content: center;
+  overflow: hidden;
+  height: 200px;
+  width: auto;
+  object-fit: cover;
+  border-radius: 10%;
+  padding: 20px;
+  
+}
+
+
+
+
+.workings {
+  margin-top: 180px;
+  color: white;
+}
+.img1  {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  display: flex;
+  float: right;
+}
+
+.judul  {
+  color: aliceblue;
+  padding: 1rem;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+
+
+
+
+
+
+
+
